@@ -1,0 +1,16 @@
+what is the in git push -u origin master -->what does u flag do
+what is dom
+what is document in dom
+what is nodejs
+difference b/w .innerhtml and .textcontent
+
+what is JSON?
+
+what is localstorage in browser , how do we access the value from it
+how do we put some value in it?
+
+#ASSIGNMENT
+##CODING
+since we are storing the data into the storage array, you have to use the
+browser's local storage to store the data
+
