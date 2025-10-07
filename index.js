@@ -1,4 +1,4 @@
-// const storage = [];
+const storage = [];
 const button = document.querySelector("#input-btn");
 const inputEl = document.querySelector("#input-el");
 const deleteBtn = document.querySelector("#delete-btn");
@@ -7,8 +7,9 @@ const ulEl = document.querySelector("#ul-l");
 
 button.addEventListener("click", () => {
   const content = inputEl.value;
-    //stor the data into localstorage instead of the storage array
   storage.push(inputEl.value);
+    //setting the items in local storage
+localStorage.setItem("ngci",JSON.stringify(storage))
   inputEl.value = "";
   render();
 });
