@@ -15,3 +15,6 @@ since we are storing the data into the storage array, you have to use the
 browser's local storage to store the data
 
 ##install the package manager for the windows
+
+
+## what is the difference b/w absolute and relative path

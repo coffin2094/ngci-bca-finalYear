@@ -14,5 +14,5 @@ locastorage
 
 
 ## REACTDAY 1 Assignments
-how to put image inside the react component and display it
-
+-how to put image inside the react component and display it
+-what is the difference b/w absolute and relative path
